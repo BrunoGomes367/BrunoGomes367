@@ -21,14 +21,6 @@ e criação de sites (HTML e CSS).
 
 ---
 
-<div align="center">
-  <a href="https://github.com/BRUNOGOMES367">
-    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOGOMES367&layout=compact&theme=tokyonight" />
-  </a>
-</div>
-
----
-
 ### 📫 Contatos
 
 <div align="center">
